@@ -1,5 +1,7 @@
 # rna_seq_notes
 
+https://rnabio.org/module-01-inputs/0001/05/01/RNAseq_Data/#determining-the-strandedness-of-rna-seq-data
+
 ## Quality control
 
 ```bash
