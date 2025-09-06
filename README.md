@@ -1,6 +1,6 @@
 # rna_seq_notes
 
-## Command for building hisat2 indexes
+## Commands for building hisat2 indexes
 
 ```bash
 wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/182/965/GCF_000182965.3_ASM18296v3/GCF_000182965.3_ASM18296v3_genomic.fna.gz
