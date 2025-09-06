@@ -1,6 +1,6 @@
 # rna_seq_notes
 
-![video](https://www.youtube.com/watch?v=lG11JjovJHE)
+[video](https://www.youtube.com/watch?v=lG11JjovJHE)
 
 ## Commands for building hisat2 indexes
 
