@@ -1,5 +1,7 @@
 # rna_seq_notes
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lG11JjovJHE?si=f1gObtYwbvHz1vDh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Commands for building hisat2 indexes
 
 ```bash
@@ -14,3 +16,7 @@ hisat2_extract_exons.py genome.gtf > genome.exon
 hisat2-build -p 16 --exon genome.exon --ss genome.ss genome.fa genome_tran
 
 ```
+
+## Quality control
+
+[https://github.com/reneshbedre/HTSQualC](https://github.com/reneshbedre/HTSQualC)
