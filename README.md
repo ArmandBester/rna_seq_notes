@@ -10,6 +10,8 @@ fastp -i fastq/Calbicans-10-min-Control-1_S1_L001_R1_001.fastq -I fastq/Calbican
 
 [video](https://www.youtube.com/watch?v=lG11JjovJHE)
 
+[video](https://www.youtube.com/watch?v=-qwmeHyY6T0)
+
 ## Commands for building hisat2 indexes
 
 ```bash
