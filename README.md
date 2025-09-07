@@ -1,5 +1,7 @@
 # rna_seq_notes
 
+nextflow run nf-core/rnaseq -r 3.20.0 -name "Henco_RNA_Seq" -profile "docker" -work-dir ".work" -resume -params-file "/home/besterpa/rna_seq/nf-params.json" 
+
 https://rnabio.org/module-01-inputs/0001/05/01/RNAseq_Data/#determining-the-strandedness-of-rna-seq-data
 
 ## Quality control
